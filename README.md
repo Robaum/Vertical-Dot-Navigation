@@ -3,7 +3,7 @@ This demo is a combination of 2 projects:	Dot Navigation Styles by [Mary Lou](ht
 In order to create a one page scroller website with awesome vertical dot navigation styles.
 
 ## Demo
-[View demo](http://www.robamador.com/demos/dotnav-demo)
+[View demo](http://robaum.github.io/Vertical-Dot-Navigation/Scroll-Demo/)
 
 ## Requirement
 
